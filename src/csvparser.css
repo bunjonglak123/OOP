@@ -1,0 +1,30 @@
+button{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+table.csv{
+    overflow-y: scroll;
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+tr{
+    border: 1px solid black
+}
+
+.load{
+    margin-left: -120px;
+    margin-right: 120px;
+}
+
+canvas{
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+.Bar{
+    padding-top: 30px;
+    padding-bottom: 130px;
+}
